@@ -1,0 +1,13 @@
+Credenziali accesso progetto:
+
+user: sonoco
+PSW: Sonoco1111
+---------------------------------------
+Teleassistenza
+
+Nome modem: eWon
+Account: MRService
+Utente: admin
+
+Password: YURIKO2020@
+LAN : 192.168.0.198
